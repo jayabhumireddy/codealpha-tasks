@@ -3,7 +3,6 @@ package com.hotelreviews;
 import java.time.LocalDate;
 
 public class Review {
-	
 	private String hotelName;
 	private String userName;
 	private int rating;
@@ -56,5 +55,5 @@ public class Review {
                 reviewText +", date='" + date + '\'' + '}';
 	}
 }
-	
-	
+
+

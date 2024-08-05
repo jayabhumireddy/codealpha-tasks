@@ -1,7 +1,7 @@
 package com.hotelreviews;
 
 	import java.time.LocalDate;
-	import java.util.ArrayList;
+    import java.util.ArrayList;
 	import java.util.Arrays;
 	import java.util.Comparator;
 	import java.util.List;
@@ -34,13 +34,8 @@ package com.hotelreviews;
 			System.out.println("\nsorted Reviews by Date:");
 			sortedReviews.forEach(System.out::println);
 			
-			
-		
-			
-		}
+			}
 		
 }
-
-	
 
 
